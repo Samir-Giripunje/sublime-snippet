@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+    max_element( $1 .begin(), $2.end())- $3.begin();
+    //for max element position
+    //put * before max_element for max element 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>max_ele</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.c++</scope>
+</snippet>

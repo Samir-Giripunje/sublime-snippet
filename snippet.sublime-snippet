@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+vi    	vector<int>
+vii   	vector<long long int>
+vpii  	vector<pair<int,int>> 
+fs    	first
+snd	  	second
+pb      emplace_pair
+max_ele  max_element()
+fori	 for(int i=0;i<n;i++)
+forl	 for(int i=n-1;i>0;i--)
+binary_search       return index of target else -1
+pivot               return highest element index in rotated array
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>snippets</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.c++</scope> 
+</snippet>
