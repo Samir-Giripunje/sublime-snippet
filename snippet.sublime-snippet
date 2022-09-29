@@ -8,9 +8,11 @@ snd	  	second
 pb      emplace_pair
 max_ele  max_element()
 fori	 for(int i=0;i<n;i++)
+forj     for(int j=0;j<n;j++)
 forl	 for(int i=n-1;i>0;i--)
 binary_search       return index of target else -1
 pivot               return highest element index in rotated array
+sieve          calculate all the prime numbers till N time :- O(N)* log(log(N))
 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
